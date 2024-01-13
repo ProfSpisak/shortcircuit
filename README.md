@@ -1,28 +1,27 @@
 # shortcircuit
 CRC WRCCDC Competition 2024
 
-This is the competition container for CIS students to serve as a roadmap and toolkit for WRCCDC's competition environment. Using SSH and applying their cybersecurity skills outside of the classroom, this serves as a guide as to how to practice their skills they have learned in information security, cryptography, network analysis and end-point protection. This is just practice as we gain experience in cybercompetitions.
+This is the competition container for CIS students to serve as a roadmap and toolkit for WRCCDC's competition environment. Using SSH and applying their cybersecurity skills outside of the classroom, this serves as a guide as to how to practice their skills they have learned in information security, cryptography, network analysis and end-point protection. This is just practice as we gain experience in the attack environment.
 
 Tools
 ---------
 nmap
-metasploit
+msf 
 wireshark
 python3
 scapy
 netstat
-MD5 hash
-privilege escalation
-SDLC integration
-ISACA and ISC2 
+MD5 hash 
+ngfw ips
+kibana
 secOps
 pattern analysis
 
 Documentation 
 --------
-We would like to observe and report back some novel technologies used in this competition and will be documenting as we go along.
+We will be learning about emerging open source blue team tools and have a better understanding of technologies used in this competition.
 
 Configuration Files
-----------------
+--------------------
 These will be be put into a folder with files with log files and tbd.
 
