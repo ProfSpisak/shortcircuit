@@ -27,6 +27,8 @@ This is the competition container for CIS students to serve as a roadmap and too
 
 -pattern analysis
 
+-Windows powershell
+
 ## Documentation 
 
 Taking notes as blue team tools to have a better understanding of technologies used in this competition.
